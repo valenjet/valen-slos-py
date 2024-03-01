@@ -1,4 +1,4 @@
-from valen_slos_py import example_function
+from slos import example_function
 
 
 def test_example_function():

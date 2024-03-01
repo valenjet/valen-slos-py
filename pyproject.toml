@@ -1,13 +1,15 @@
 [project]
-name = "valen-slos-py"
-version = "0.1"
-description = "Project for teaching the concepts of software testing, in Python."
+name = "slos"
+version = "0.0.1"
+description = "Teaching project Student Loan Origination System written in Python."
 readme = "README.md"
 requires-python = ">=3.8"
-authors = [{name = "Valen Jet"}]
-license = {text = "Apache-2.0"}
+authors = [{name = "Stephen D Ritchie"}]
+license = {text = "MIT"}
 classifiers = [
-    "License :: OSI Approved :: Apache Software License"
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
 ]
 dependencies = [
 

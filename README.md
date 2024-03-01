@@ -1,11 +1,11 @@
-# valen-slos-py
+# SLOS in Python
 
 [![PyPI](https://img.shields.io/pypi/v/valen-slos-py.svg)](https://pypi.org/project/valen-slos-py/)
 [![Tests](https://github.com/valenjet/valen-slos-py/actions/workflows/test.yml/badge.svg)](https://github.com/valenjet/valen-slos-py/actions/workflows/test.yml)
 [![Changelog](https://img.shields.io/github/v/release/valenjet/valen-slos-py?include_prereleases&label=changelog)](https://github.com/valenjet/valen-slos-py/releases)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/valenjet/valen-slos-py/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/valenjet/valen-slos-py/blob/main/LICENSE)
 
-Project for teaching the concepts of software testing, in Python.
+The teaching project Student Loan Origination System (SLOS) written in Python as a project for teaching the concepts of software testing.
 
 ## Installation
 
